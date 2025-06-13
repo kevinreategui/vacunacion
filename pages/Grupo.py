@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Grupo Las Machonas", layout="centered")
+st.set_page_config(page_title="Grupo Web-iadores", layout="centered")
 
 st.title("👩‍🎓 Grupo Las Machonas")
 
