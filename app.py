@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Grupo la Manchita Colorida", layout="centered")
+st.set_page_config(page_title="Grupo los malditos de CERTUS", layout="centered")
 
 # Título con gradiente
 st.markdown("""
@@ -13,7 +13,7 @@ st.markdown("""
     font-weight: bold;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-'>Grupo la Manchita Colorida</h1>
+'>Grupo los malditos de CERTUS</h1>
 """, unsafe_allow_html=True)
 
 # Mensaje de bienvenida alegre
@@ -49,7 +49,7 @@ st.markdown(
         margin-top:3em;
         padding:1.2em 0 0.6em 0;
     '>
-        Desarrollado con 💙 por el Grupo la Manchita Colorida &copy; 2025
+        Desarrollado con 💙 por el Grupo los malditos de CERTUS &copy; 2025
     </footer>
     """,
     unsafe_allow_html=True

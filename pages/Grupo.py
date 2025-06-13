@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.set_page_config(page_title="Grupo la Manchita Colorida", layout="centered")
+st.set_page_config(page_title="Grupo los malditos de CERTUS", layout="centered")
 
-st.title("👩‍🎓 Grupo la Manchita Colorida")
+st.title("👩‍🎓 Grupo los malditos de CERTUS")
 
 st.markdown("""
 <div style='display:flex; justify-content:center; margin-top:2em;'>
@@ -35,14 +35,14 @@ st.markdown("""
       </tr>
       <tr>
         <td style='padding:10px 0; text-align:center;'>4</td>
-        <td style='padding:10px 0 10px 18px;'>Jose luis Dongo</td>
+        <td style='padding:10px 0 10px 18px;'>Jose luis Dongo calderon</td>
       </tr>
     </tbody>
   </table>
 </div>
 """, unsafe_allow_html=True)
 
-st.success("¡Somos el Grupo la Manchita Colorida")
+st.success("¡Somos el Grupo los malditos de CERTUS")
 
 st.markdown("---")
 st.markdown('<footer style="text-align:center;font-size:0.9em;">Desarrollado por el Grupo la Manchita Colorida - 2025</footer>', unsafe_allow_html=True)
