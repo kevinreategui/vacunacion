@@ -13,7 +13,7 @@ st.markdown("""
     font-weight: bold;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
-'>Equipo Web-iadores</h1>
+'>Grupo la Manchita Colorida</h1>
 """, unsafe_allow_html=True)
 
 # Mensaje de bienvenida alegre

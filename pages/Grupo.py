@@ -42,7 +42,7 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-st.success("¡Somos el grupo Web-iadores")
+st.success("¡Somos el Grupo la Manchita Colorida")
 
 st.markdown("---")
 st.markdown('<footer style="text-align:center;font-size:0.9em;">Desarrollado por el Grupo la Manchita Colorida - 2025</footer>', unsafe_allow_html=True)
