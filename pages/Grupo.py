@@ -33,6 +33,10 @@ st.markdown("""
         <td style='padding:10px 0; text-align:center; border-bottom:1px solid #d2e4fa;'>3</td>
         <td style='padding:10px 0 10px 18px; border-bottom:1px solid #d2e4fa;'>Dana sosa abanto</td>
       </tr>
+      <tr>
+        <td style='padding:10px 0; text-align:center;'>4</td>
+        <td style='padding:10px 0 10px 18px;'>Jose luis Dongo</td>
+      </tr>
     </tbody>
   </table>
 </div>
