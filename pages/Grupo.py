@@ -10,19 +10,19 @@ st.markdown("## Integrantes")
 integrantes = [
     {
         "nombre": "Kevin Reategui Rios",
-        "foto": "kevin.jpg"
+        "foto": "foto/kevin.jpg"
     },
     {
         "nombre": "Pedro Martinez Mustiga",
-        "foto": "pedro.jpg"
+        "foto": "foto/pedro.jpg"
     },
     {
         "nombre": "Dana Sosa Abanto",
-        "foto": "dana.jpg"
+        "foto": "foto/dana.jpg"
     },
     {
         "nombre": "Jose Luis Dongo Calderon",
-        "foto": "jose.jpg"
+        "foto": "foto/jose.jpg"
     }
 ]
 
