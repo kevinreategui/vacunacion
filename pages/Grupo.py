@@ -23,19 +23,15 @@ st.markdown("""
     <tbody>
       <tr>
         <td style='padding:10px 0; text-align:center; border-bottom:1px solid #d2e4fa;'>1</td>
-        <td style='padding:10px 0 10px 18px; border-bottom:1px solid #d2e4fa;'>Pamela Ramírez</td>
+        <td style='padding:10px 0 10px 18px; border-bottom:1px solid #d2e4fa;'>Kevin Reategui Rios</td>
       </tr>
       <tr>
         <td style='padding:10px 0; text-align:center; border-bottom:1px solid #d2e4fa;'>2</td>
-        <td style='padding:10px 0 10px 18px; border-bottom:1px solid #d2e4fa;'>Joselyn Díaz</td>
+        <td style='padding:10px 0 10px 18px; border-bottom:1px solid #d2e4fa;'>Pedro Martinez Mustiga</td>
       </tr>
       <tr>
         <td style='padding:10px 0; text-align:center; border-bottom:1px solid #d2e4fa;'>3</td>
-        <td style='padding:10px 0 10px 18px; border-bottom:1px solid #d2e4fa;'>Karen Huamán</td>
-      </tr>
-      <tr>
-        <td style='padding:10px 0; text-align:center;'>4</td>
-        <td style='padding:10px 0 10px 18px;'>Kevin Reategui</td>
+        <td style='padding:10px 0 10px 18px; border-bottom:1px solid #d2e4fa;'>Dana sosa abanto</td>
       </tr>
     </tbody>
   </table>
