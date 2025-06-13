@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.set_page_config(page_title="Grupo Web-iadores", layout="centered")
+st.set_page_config(page_title="Grupo la Manchita Colorida", layout="centered")
 
-st.title("👩‍🎓 Grupo Web-iadores")
+st.title("👩‍🎓 Grupo la Manchita Colorida")
 
 st.markdown("""
 <div style='display:flex; justify-content:center; margin-top:2em;'>
@@ -45,4 +45,4 @@ st.markdown("""
 st.success("¡Somos el grupo Web-iadores")
 
 st.markdown("---")
-st.markdown('<footer style="text-align:center;font-size:0.9em;">Desarrollado por el Grupo Las Machonas - 2025</footer>', unsafe_allow_html=True)
+st.markdown('<footer style="text-align:center;font-size:0.9em;">Desarrollado por el Grupo la Manchita Colorida - 2025</footer>', unsafe_allow_html=True)

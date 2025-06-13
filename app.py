@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Equipo Web-iadores", layout="centered")
+st.set_page_config(page_title="Grupo la Manchita Colorida", layout="centered")
 
 # Título con gradiente
 st.markdown("""
@@ -27,7 +27,7 @@ st.markdown(
         color:#222;
     '>
         ¡Bienvenid@ a nuestro espacio digital!<br><br>
-        Somos el <b>Equipo Web-iadores</b>, un grupo unido, creativo y siempre con ganas de aprender.<br>
+        Somos el <b>Grupo la Manchita Colorida</b>, un grupo unido, creativo y siempre con ganas de aprender.<br>
         Hemos disfrutado mucho este proyecto colaborativo, aportando ideas, risas y esfuerzo.<br><br>
         <b>Nos sentimos contentos y orgullosos de lo que logramos juntos 🤝🚀</b><br>
         Usa el menú de la izquierda para explorar nuestras secciones:<br>
@@ -49,7 +49,7 @@ st.markdown(
         margin-top:3em;
         padding:1.2em 0 0.6em 0;
     '>
-        Desarrollado con 💙 por el Equipo Web-iadores &copy; 2025
+        Desarrollado con 💙 por el Grupo la Manchita Colorida &copy; 2025
     </footer>
     """,
     unsafe_allow_html=True

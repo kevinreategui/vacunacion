@@ -15,4 +15,4 @@ st.markdown("""
 st.balloons()
 
 st.markdown("---")
-st.markdown('<footer style="text-align:center;font-size:0.9em;">Desarrollado por el Equipo Web-iadores - 2025</footer>', unsafe_allow_html=True)
+st.markdown('<footer style="text-align:center;font-size:0.9em;">Desarrollado por el Grupo la Manchita Colorida - 2025</footer>', unsafe_allow_html=True)
