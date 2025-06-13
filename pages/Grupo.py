@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Grupo Web-iadores", layout="centered")
 
-st.title("👩‍🎓 Grupo Las Machonas")
+st.title("👩‍🎓 Grupo Web-iadores")
 
 st.markdown("""
 <div style='display:flex; justify-content:center; margin-top:2em;'>
