@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.set_page_config(page_title="Grupo los malditos de CERTUS", layout="centered")
+st.set_page_config(page_title="Grupo 2 CERTUS", layout="centered")
 
-st.title("👩‍🎓 Grupo los malditos de CERTUS")
+st.title("👩‍🎓 Grupo 2 CERTUS")
 
 st.markdown("""
 <div style='display:flex; justify-content:center; margin-top:2em;'>
@@ -42,7 +42,7 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-st.success("¡Somos el Grupo los malditos de CERTUS")
+st.success("¡Somos el Grupo 2 CERTUS")
 
 st.markdown("---")
-st.markdown('<footer style="text-align:center;font-size:0.9em;">Desarrollado por el Grupo los malditos de CERTUS - 2025</footer>', unsafe_allow_html=True)
+st.markdown('<footer style="text-align:center;font-size:0.9em;">Desarrollado por el Grupo 2 CERTUS - 2025</footer>', unsafe_allow_html=True)

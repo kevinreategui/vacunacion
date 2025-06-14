@@ -15,4 +15,4 @@ st.markdown("""
 st.balloons()
 
 st.markdown("---")
-st.markdown('<footer style="text-align:center;font-size:0.9em;">Desarrollado por el Grupo los malditos de CERTUS - 2025</footer>', unsafe_allow_html=True)
+st.markdown('<footer style="text-align:center;font-size:0.9em;">Desarrollado por el Grupo 2 CERTUS - 2025</footer>', unsafe_allow_html=True)
