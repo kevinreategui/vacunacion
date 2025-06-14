@@ -102,4 +102,4 @@ if "GRUPO_RIESGO" in df.columns:
     st.pyplot(fig3)
 
 st.markdown("---")
-st.markdown("Desarrollado por el Grupo la Manchita Colorida - 2025")
+st.markdown("Desarrollado por el Grupo 2 CERTUS - 2025")
